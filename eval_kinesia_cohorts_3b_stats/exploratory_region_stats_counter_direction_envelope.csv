@@ -1,0 +1,101 @@
+region,movement,metric_col,n_healthy,n_pathological,healthy_median,pathological_median,delta_median_patho_minus_healthy,p_value,p_fdr,cliffs_delta_patho_vs_healthy,auroc_patho_higher
+ala of nose,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.7709159757852396,0.09090909090909091,0.5454545454545454
+ala of nose,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9134518221876402,0.05263157894736842,0.5263157894736842
+ala of nose,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.7709159757852396,0.10526315789473684,0.5526315789473685
+ala of nose,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.7709159757852396,0.21052631578947367,0.6052631578947368
+ala of nose,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.7709159757852396,0.23529411764705882,0.6176470588235294
+depressor anguli oris,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9134518221876402,0.045454545454545456,0.5227272727272727
+depressor anguli oris,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.8457327587878664,1.0,-0.03289473684210526,0.48355263157894735
+depressor anguli oris,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.7709159757852396,0.15789473684210525,0.5789473684210527
+depressor anguli oris,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9134518221876402,0.05263157894736842,0.5263157894736842
+depressor anguli oris,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.7709159757852396,0.29411764705882354,0.6470588235294118
+eyebrow,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.7709159757852396,0.13636363636363635,0.5681818181818182
+eyebrow,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.7709159757852396,0.2631578947368421,0.631578947368421
+eyebrow,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9134518221876402,0.045454545454545456,0.5227272727272727
+front,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.19973110728804522,0.7709159757852396,0.2631578947368421,0.631578947368421
+front,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+labial commisure,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.08195376608537172,0.7709159757852396,0.3181818181818182,0.6590909090909091
+labial commisure,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9134518221876402,0.05263157894736842,0.5263157894736842
+labial commisure,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.3360551387581244,0.7709159757852396,0.20300751879699247,0.6015037593984962
+labial commisure,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.7709159757852396,0.21052631578947367,0.6052631578947368
+labial commisure,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3311747078686338,0.7709159757852396,0.19117647058823528,0.5955882352941176
+lateral cantus,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.08195376608537172,0.7709159757852396,0.3181818181818182,0.6590909090909091
+lateral cantus,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.7540017204134986,1.0,0.05921052631578947,0.5296052631578947
+lateral cantus,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.37454622233677826,0.7709159757852396,0.18796992481203006,0.5939849624060151
+lateral cantus,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lateral cantus,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.06771618064766538,0.7709159757852396,0.35294117647058826,0.6764705882352942
+levator superioris,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.24052211552945868,0.7709159757852396,0.24431818181818182,0.6221590909090909
+levator superioris,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.09993434503315736,0.7709159757852396,0.34868421052631576,0.6743421052631579
+levator superioris,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4134782536746706,0.7709159757852396,0.20300751879699247,0.6015037593984962
+levator superioris,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.7709159757852396,0.2631578947368421,0.631578947368421
+levator superioris,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.04310629342743949,0.7709159757852396,0.4117647058823529,0.7058823529411765
+levator superioris nasi,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+levator superioris nasi,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.7709159757852396,0.21052631578947367,0.6052631578947368
+levator superioris nasi,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.7709159757852396,0.10526315789473684,0.5526315789473685
+levator superioris nasi,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9134518221876402,0.05263157894736842,0.5263157894736842
+levator superioris nasi,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.7709159757852396,0.29411764705882354,0.6470588235294118
+lower eyelid,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.7709159757852396,0.09090909090909091,0.5454545454545454
+lower eyelid,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9134518221876402,0.05263157894736842,0.5263157894736842
+lower eyelid,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.07573626999592238,0.7709159757852396,0.3684210526315789,0.6842105263157895
+lower eyelid,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.08649687720890414,0.7709159757852396,0.3157894736842105,0.6578947368421053
+lower eyelid,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.9071690693924864,1.0,-0.029411764705882353,0.4852941176470588
+lower lip,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.7709159757852396,0.21052631578947367,0.6052631578947368
+lower lip,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.27031966807761876,0.7709159757852396,0.21710526315789475,0.6085526315789473
+lower lip,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3532709951085804,0.7709159757852396,0.11764705882352941,0.5588235294117647
+medial canthus,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.6871889573301211,1.0,0.07386363636363637,0.5369318181818182
+medial canthus,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.7709159757852396,0.15789473684210525,0.5789473684210527
+medial canthus,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.7709159757852396,0.23529411764705882,0.6176470588235294
+mentalis,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.7709159757852396,0.09090909090909091,0.5454545454545454
+mentalis,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+mentalis,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.7709159757852396,0.15789473684210525,0.5789473684210527
+mentalis,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.9657440375146142,1.0,0.013157894736842105,0.506578947368421
+mentalis,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.7709159757852396,0.17647058823529413,0.5882352941176471
+nasal bone,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasal bone,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasal bone,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.7709159757852396,0.10526315789473684,0.5526315789473685
+nasal bone,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.7709159757852396,0.21052631578947367,0.6052631578947368
+nasal bone,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasion,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.39315095081312057,0.7709159757852396,0.1590909090909091,0.5795454545454546
+nasion,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.08074472133379994,0.7709159757852396,0.3815789473684211,0.6907894736842105
+nasion,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasion,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasion,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+palpebra-malar groove,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9134518221876402,0.045454545454545456,0.5227272727272727
+palpebra-malar groove,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.7709159757852396,0.21052631578947367,0.6052631578947368
+palpebra-malar groove,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9134518221876402,0.05263157894736842,0.5263157894736842
+palpebra-malar groove,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.7709159757852396,0.10526315789473684,0.5526315789473685
+palpebra-malar groove,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.7709159757852396,0.29411764705882354,0.6470588235294118
+philtrum,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+philtrum,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+philtrum,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+philtrum,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5988754312830971,0.9134518221876402,-0.06578947368421052,0.46710526315789475
+philtrum,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3532709951085804,0.7709159757852396,0.11764705882352941,0.5588235294117647
+upper eyelid,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.9198138588176336,1.0,-0.022727272727272728,0.48863636363636365
+upper eyelid,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.6665557249930951,0.9948592910344703,-0.07894736842105263,0.4605263157894737
+upper eyelid,M3,counter_direction_envelope_severity_marker_median,7,19,1.0102058051314735,0.0,-1.0102058051314735,0.35408989482222086,0.7709159757852396,-0.23308270676691728,0.38345864661654133
+upper eyelid,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5202816160351829,0.9134518221876402,-0.07894736842105263,0.4605263157894737
+upper eyelid,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3532709951085804,0.7709159757852396,0.11764705882352941,0.5588235294117647
+upper lip,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper lip,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper lip,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.7709159757852396,0.10526315789473684,0.5526315789473685
+upper lip,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.7709159757852396,0.10526315789473684,0.5526315789473685
+upper lip,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.7709159757852396,0.17647058823529413,0.5882352941176471
+zygomaticus major,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus major,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.7709159757852396,0.10526315789473684,0.5526315789473685
+zygomaticus major,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus major,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9134518221876402,0.05263157894736842,0.5263157894736842
+zygomaticus major,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.7709159757852396,0.29411764705882354,0.6470588235294118
+zygomaticus minor,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus minor,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.7709159757852396,0.2631578947368421,0.631578947368421
+zygomaticus minor,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.7709159757852396,0.10526315789473684,0.5526315789473685
+zygomaticus minor,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.7709159757852396,0.15789473684210525,0.5789473684210527
+zygomaticus minor,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.06771618064766538,0.7709159757852396,0.35294117647058826,0.6764705882352942

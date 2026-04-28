@@ -1,0 +1,101 @@
+region,movement,metric_col,n_healthy,n_pathological,healthy_median,pathological_median,delta_median_patho_minus_healthy,p_value,p_fdr,cliffs_delta_patho_vs_healthy,auroc_patho_higher
+ala of nose,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+ala of nose,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5988754312830971,0.9366143505359696,-0.06578947368421052,0.46710526315789475
+ala of nose,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+ala of nose,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5988754312830971,0.9366143505359696,-0.06578947368421052,0.46710526315789475
+ala of nose,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3532709951085804,0.9366143505359696,0.11764705882352941,0.5588235294117647
+depressor anguli oris,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+depressor anguli oris,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+depressor anguli oris,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+depressor anguli oris,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.9366143505359696,0.10526315789473684,0.5526315789473685
+depressor anguli oris,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.5483429354628137,0.9366143505359696,0.058823529411764705,0.5294117647058824
+eyebrow,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.05814223207732549,0.6322967738409146,0.3684210526315789,0.6842105263157895
+eyebrow,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9366143505359696,0.05263157894736842,0.5263157894736842
+eyebrow,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9366143505359696,0.05263157894736842,0.5263157894736842
+eyebrow,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.009903131957335033,0.17231449605762958,-0.375,0.3125
+front,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9366143505359696,0.045454545454545456,0.5227272727272727
+front,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.9366143505359696,0.15789473684210525,0.5789473684210527
+front,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9366143505359696,0.05263157894736842,0.5263157894736842
+front,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9366143505359696,0.05263157894736842,0.5263157894736842
+front,M5,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+labial commisure,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.003424189337464922,0.13531089068063532,-0.375,0.3125
+labial commisure,M2,hypokinesia_envelope_severity_marker_median,6,18,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+labial commisure,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.9366143505359696,0.21052631578947367,0.6052631578947368
+labial commisure,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.9366143505359696,0.10526315789473684,0.5526315789473685
+labial commisure,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0428507277715141,0.0428507277715141,0.009382726080349171,0.17231449605762958,0.5882352941176471,0.7941176470588235
+lateral cantus,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.9366143505359696,0.13636363636363635,0.5681818181818182
+lateral cantus,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.38253923766212183,0.38253923766212183,0.0032096256745766773,0.13531089068063532,0.6842105263157895,0.8421052631578947
+lateral cantus,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9366143505359696,0.05263157894736842,0.5263157894736842
+lateral cantus,M4,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+lateral cantus,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.9366143505359696,0.23529411764705882,0.6176470588235294
+levator superioris,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9366143505359696,0.045454545454545456,0.5227272727272727
+levator superioris,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0183145267060771,0.0183145267060771,0.20807518273935044,0.9366143505359696,0.29605263157894735,0.6480263157894737
+levator superioris,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+levator superioris,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.7636991214610711,1.0,0.05263157894736842,0.5263157894736842
+levator superioris,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.1386052881074415,0.1386052881074415,0.0046658927820908734,0.13531089068063532,0.6985294117647058,0.8492647058823529
+levator superioris nasi,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.8925445297141498,1.0,-0.022727272727272728,0.48863636363636365
+levator superioris nasi,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.9225016744519371,1.0,-0.019736842105263157,0.4901315789473684
+levator superioris nasi,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9366143505359696,0.05263157894736842,0.5263157894736842
+levator superioris nasi,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9366143505359696,0.05263157894736842,0.5263157894736842
+levator superioris nasi,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.8224137610623242,0.29411764705882354,0.6470588235294118
+lower eyelid,M1,hypokinesia_envelope_severity_marker_median,7,21,0.0,0.0,0.0,0.4760334929424296,0.9366143505359696,-0.08843537414965986,0.4557823129251701
+lower eyelid,M2,hypokinesia_envelope_severity_marker_median,6,18,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid,M3,hypokinesia_envelope_severity_marker_median,4,16,0.0,0.0,0.0,0.7076604666545524,1.0,0.0625,0.53125
+lower eyelid,M4,hypokinesia_envelope_severity_marker_median,5,15,0.0,0.0,0.0,0.402194822339485,0.9366143505359696,-0.14666666666666667,0.4266666666666667
+lower eyelid,M5,hypokinesia_envelope_severity_marker_median,5,12,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip,M1,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+lower lip,M2,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+lower lip,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9366143505359696,0.05263157894736842,0.5263157894736842
+lower lip,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.5483429354628137,0.9366143505359696,0.058823529411764705,0.5294117647058824
+medial canthus,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.8925445297141498,1.0,-0.022727272727272728,0.48863636363636365
+medial canthus,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5352445008129454,0.9366143505359696,0.11842105263157894,0.5592105263157895
+medial canthus,M3,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus,M4,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.5775561302463277,0.9366143505359696,-0.07352941176470588,0.4632352941176471
+mentalis,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.11343638083618265,0.8224137610623242,-0.125,0.4375
+mentalis,M2,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+mentalis,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+mentalis,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9366143505359696,0.05263157894736842,0.5263157894736842
+mentalis,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasal bone,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.9366143505359696,0.09090909090909091,0.5454545454545454
+nasal bone,M2,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+nasal bone,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasal bone,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9366143505359696,0.05263157894736842,0.5263157894736842
+nasal bone,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.5483429354628137,0.9366143505359696,0.058823529411764705,0.5294117647058824
+nasion,M1,hypokinesia_envelope_severity_marker_median,7,22,0.0,0.0,0.0,0.45093612971240316,0.9366143505359696,-0.09090909090909091,0.45454545454545453
+nasion,M2,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.9366143505359696,0.15789473684210525,0.5789473684210527
+nasion,M3,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+nasion,M4,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+nasion,M5,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+palpebra-malar groove,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9366143505359696,0.045454545454545456,0.5227272727272727
+palpebra-malar groove,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.1507614598491407,0.1507614598491407,0.018971689397780857,0.2750894962678224,0.5460526315789473,0.7730263157894737
+palpebra-malar groove,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9366143505359696,0.05263157894736842,0.5263157894736842
+palpebra-malar groove,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9366143505359696,0.05263157894736842,0.5263157894736842
+palpebra-malar groove,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.8224137610623242,0.29411764705882354,0.6470588235294118
+philtrum,M1,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+philtrum,M2,hypokinesia_envelope_severity_marker_median,0,0,,,,,,,
+philtrum,M3,hypokinesia_envelope_severity_marker_median,6,18,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+philtrum,M4,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9366143505359696,0.05263157894736842,0.5263157894736842
+philtrum,M5,hypokinesia_envelope_severity_marker_median,7,16,0.0,0.0,0.0,0.5707503880581739,0.9366143505359696,0.0625,0.53125
+upper eyelid,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9366143505359696,0.045454545454545456,0.5227272727272727
+upper eyelid,M2,hypokinesia_envelope_severity_marker_median,7,17,0.0,0.0,0.0,0.7911148617644773,1.0,0.06722689075630252,0.5336134453781513
+upper eyelid,M3,hypokinesia_envelope_severity_marker_median,6,16,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper eyelid,M4,hypokinesia_envelope_severity_marker_median,7,15,0.0,0.0,0.0,0.1718573390627992,0.9366143505359696,-0.14285714285714285,0.42857142857142855
+upper eyelid,M5,hypokinesia_envelope_severity_marker_median,7,12,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper lip,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.07679063501873398,0.7423094718477619,-0.2840909090909091,0.35795454545454547
+upper lip,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper lip,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper lip,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.9366143505359696,0.10526315789473684,0.5526315789473685
+upper lip,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.04310629342743949,0.5357496468838908,0.4117647058823529,0.7058823529411765
+zygomaticus major,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus major,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9366143505359696,0.05263157894736842,0.5263157894736842
+zygomaticus major,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus major,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus major,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.5483429354628137,0.9366143505359696,0.058823529411764705,0.5294117647058824
+zygomaticus minor,M1,hypokinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9366143505359696,0.045454545454545456,0.5227272727272727
+zygomaticus minor,M2,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.7636991214610711,1.0,0.05263157894736842,0.5263157894736842
+zygomaticus minor,M3,hypokinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus minor,M4,hypokinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus minor,M5,hypokinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.9366143505359696,0.17647058823529413,0.5882352941176471

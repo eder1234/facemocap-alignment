@@ -1,0 +1,196 @@
+region_side,movement,metric_col,n_healthy,n_pathological,healthy_median,pathological_median,delta_median_patho_minus_healthy,p_value,p_fdr,cliffs_delta_patho_vs_healthy,auroc_patho_higher
+ala of nose | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.44787706555439877,0.7540949050374796,-0.08522727272727272,0.45738636363636365
+ala of nose | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.78393378875274,0.936040344779391,-0.05263157894736842,0.47368421052631576
+ala of nose | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.8349856743820906,0.9821047553507609,-0.03759398496240601,0.48120300751879697
+ala of nose | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,-0.006578947368421052,0.4967105263157895
+ala of nose | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.6768767213476888,0.17647058823529413,0.5882352941176471
+depressor anguli oris | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.284044397489131,0.6768767213476888,-0.1590909090909091,0.42045454545454547
+depressor anguli oris | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.11367327811720634,0.6768767213476888,0.3355263157894737,0.6677631578947368
+depressor anguli oris | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.7319465967895022,0.10526315789473684,0.5526315789473685
+depressor anguli oris | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.0246852757872494,0.5347773504639379,0.47368421052631576,0.7368421052631579
+depressor anguli oris | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.5595780161972339,0.8201067890255497,0.11029411764705882,0.5551470588235294
+depressor anguli oris | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.7626485649205399,0.9297721868399371,-0.056818181818181816,0.4715909090909091
+depressor anguli oris | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.08649687720890414,0.6768767213476888,0.3157894736842105,0.6578947368421053
+depressor anguli oris | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.6768767213476888,0.21052631578947367,0.6052631578947368
+depressor anguli oris | right,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.40155302147128,0.7319465967895022,0.15789473684210525,0.5789473684210527
+depressor anguli oris | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.6768767213476888,0.29411764705882354,0.6470588235294118
+eyebrow | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5153458546296924,0.8005372499102018,-0.07386363636363637,0.4630681818181818
+eyebrow | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.22377238268093125,0.6768767213476888,0.25,0.625
+eyebrow | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.15325241123562217,0.6768767213476888,0.2631578947368421,0.631578947368421
+eyebrow | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.6768767213476888,0.15789473684210525,0.5789473684210527
+eyebrow | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.6841955735786813,0.8688197759729287,0.09558823529411764,0.5477941176470589
+eyebrow | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.1262862239456574,0.1262862239456574,0.009465455761343366,0.44974212809355407,0.5789473684210527,0.7894736842105263
+eyebrow | right,M3,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+eyebrow | right,M4,abnormal_amplitude_envelope_severity_marker_median,6,18,0.0,0.0,0.0,0.44453785376403143,0.7540949050374796,0.1111111111111111,0.5555555555555556
+eyebrow | right,M5,abnormal_amplitude_envelope_severity_marker_median,7,17,0.0,0.0,0.0,0.9369794988024169,1.0,0.025210084033613446,0.5126050420168067
+front | center,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.7319465967895022,0.09090909090909091,0.5454545454545454
+front | center,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5352445008129454,0.8079162276421817,0.11842105263157894,0.5592105263157895
+front | center,M3,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+front | center,M4,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+front | center,M5,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+front | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.7319465967895022,0.09090909090909091,0.5454545454545454
+front | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5843260871807041,0.8201067890255497,0.10526315789473684,0.5526315789473685
+front | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.6768767213476888,0.21052631578947367,0.6052631578947368
+front | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.7319465967895022,0.10526315789473684,0.5526315789473685
+front | left,M5,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+front | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.7319465967895022,0.09090909090909091,0.5454545454545454
+front | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2292701373952577,0.6768767213476888,0.2565789473684211,0.6282894736842105
+front | right,M3,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+front | right,M4,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+front | right,M5,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+labial commisure | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.005681818181818182,0.5028409090909091
+labial commisure | left,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+labial commisure | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.736846546870412,0.926290162705503,0.06766917293233082,0.5338345864661654
+labial commisure | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.6768767213476888,0.15789473684210525,0.5789473684210527
+labial commisure | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.026738867523196895,0.5347773504639379,0.47058823529411764,0.7352941176470589
+labial commisure | right,M1,abnormal_amplitude_envelope_severity_marker_median,6,21,0.04753298785741735,0.0,-0.04753298785741735,0.3252546353456611,0.6973380738529138,-0.21428571428571427,0.39285714285714285
+labial commisure | right,M2,abnormal_amplitude_envelope_severity_marker_median,6,18,0.0,0.00121949584522025,0.00121949584522025,0.04223887403411197,0.6758219845457916,0.5,0.75
+labial commisure | right,M3,abnormal_amplitude_envelope_severity_marker_median,5,18,0.0,0.0,0.0,0.2839731672002843,0.6768767213476888,0.2222222222222222,0.6111111111111112
+labial commisure | right,M4,abnormal_amplitude_envelope_severity_marker_median,6,18,0.0,0.0,0.0,0.061938397128254226,0.6768767213476888,0.4444444444444444,0.7222222222222222
+labial commisure | right,M5,abnormal_amplitude_envelope_severity_marker_median,6,16,0.0,0.0,0.0,0.20773165856317088,0.6768767213476888,0.25,0.625
+lateral cantus | left,M1,abnormal_amplitude_envelope_severity_marker_median,7,22,0.0,0.0,0.0,0.628745176273833,0.8303333354201303,0.045454545454545456,0.5227272727272727
+lateral cantus | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3347773399537892,0.7047943999027142,0.19078947368421054,0.5953947368421053
+lateral cantus | left,M3,abnormal_amplitude_envelope_severity_marker_median,6,19,0.0,0.0,0.0,0.2517968035222371,0.6768767213476888,0.21052631578947367,0.6052631578947368
+lateral cantus | left,M4,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+lateral cantus | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.4143455086936805,0.7319465967895022,0.16176470588235295,0.5808823529411765
+lateral cantus | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.11476444825320382,0.6768767213476888,0.2727272727272727,0.6363636363636364
+lateral cantus | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.2003911988436993,0.2003911988436993,0.0836578132070081,0.6768767213476888,0.3881578947368421,0.694078947368421
+lateral cantus | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.6768767213476888,0.15789473684210525,0.5789473684210527
+lateral cantus | right,M4,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+lateral cantus | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.6768767213476888,0.17647058823529413,0.5882352941176471
+levator superioris nasi | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.8738990383810508,0.9987417581497724,0.028409090909090908,0.5142045454545454
+levator superioris nasi | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5308333845400859,0.8079162276421817,0.1118421052631579,0.555921052631579
+levator superioris nasi | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.6768767213476888,0.21052631578947367,0.6052631578947368
+levator superioris nasi | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.6768767213476888,0.2631578947368421,0.631578947368421
+levator superioris nasi | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0494682826464233,0.0494682826464233,0.21105553126955312,0.6768767213476888,0.29411764705882354,0.6470588235294118
+levator superioris nasi | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.9244104027274046,1.0,-0.022727272727272728,0.48863636363636365
+levator superioris nasi | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.6383187516042252,0.8303333354201303,0.08552631578947369,0.5427631578947368
+levator superioris nasi | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4530509993333004,0.7540949050374796,-0.09774436090225563,0.45112781954887216
+levator superioris nasi | right,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.8201067890255497,0.05263157894736842,0.5263157894736842
+levator superioris nasi | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.01894157123805725,0.01894157123805725,0.10194652077215921,0.6768767213476888,0.38235294117647056,0.6911764705882353
+levator superioris | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.6768767213476888,0.13636363636363635,0.5681818181818182
+levator superioris | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.4311164610520708,0.7497677583514274,0.18421052631578946,0.5921052631578947
+levator superioris | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.917045709389809,1.0,-0.022556390977443608,0.48872180451127817
+levator superioris | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.31198635247353057,0.6838057040515738,0.2236842105263158,0.6118421052631579
+levator superioris | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.1110083855196217,0.1110083855196217,0.18429946551423004,0.6768767213476888,0.3235294117647059,0.6617647058823529
+levator superioris | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.21870235387516324,0.6768767213476888,0.18181818181818182,0.5909090909090909
+levator superioris | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.1288580953809572,0.6768767213476888,0.3223684210526316,0.6611842105263158
+levator superioris | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.8217833183754697,0.05263157894736842,0.5263157894736842
+levator superioris | right,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.6201085968052499,0.8303333354201303,0.11842105263157894,0.5592105263157895
+levator superioris | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.05837324904740025,0.05837324904740025,0.009382726080349171,0.44974212809355407,0.5882352941176471,0.7941176470588235
+lower eyelid | left,M1,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.926671926320071,1.0,0.022556390977443608,0.5112781954887218
+lower eyelid | left,M2,abnormal_amplitude_envelope_severity_marker_median,5,16,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid | left,M3,abnormal_amplitude_envelope_severity_marker_median,3,13,0.0,0.0,0.0,0.7487740417065472,0.926290162705503,0.07692307692307693,0.5384615384615384
+lower eyelid | left,M4,abnormal_amplitude_envelope_severity_marker_median,5,12,0.0,0.0,0.0,0.35990090563567956,0.7319465967895022,-0.25,0.375
+lower eyelid | left,M5,abnormal_amplitude_envelope_severity_marker_median,5,11,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid | right,M1,abnormal_amplitude_envelope_severity_marker_median,6,18,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid | right,M2,abnormal_amplitude_envelope_severity_marker_median,5,14,0.0,0.0,0.0,0.144986232272971,0.6768767213476888,-0.3,0.35
+lower eyelid | right,M3,abnormal_amplitude_envelope_severity_marker_median,4,13,0.0,0.0,0.0,0.6773916019262776,0.8688197759729287,0.07692307692307693,0.5384615384615384
+lower eyelid | right,M4,abnormal_amplitude_envelope_severity_marker_median,4,12,0.0,0.0,0.0,0.5270892568655381,0.8079162276421817,-0.14583333333333334,0.4270833333333333
+lower eyelid | right,M5,abnormal_amplitude_envelope_severity_marker_median,4,7,0.0,0.0,0.0,0.5707503880581739,0.8201067890255497,0.14285714285714285,0.5714285714285714
+lower lip | center,M1,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | center,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | center,M3,abnormal_amplitude_envelope_severity_marker_median,6,19,0.0,0.0,0.0,0.457170036178972,0.7540949050374796,0.10526315789473684,0.5526315789473685
+lower lip | center,M4,abnormal_amplitude_envelope_severity_marker_median,6,19,0.0,0.0,0.0,0.5810040408742623,0.8201067890255497,0.12280701754385964,0.5614035087719298
+lower lip | center,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.04275304405908,0.04275304405908,0.5006694681358498,0.7931397515023363,0.16176470588235295,0.5808823529411765
+lower lip | left,M1,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | left,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,-0.007518796992481203,0.49624060150375937
+lower lip | left,M4,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.37454622233677826,0.7319465967895022,0.18796992481203006,0.5939849624060151
+lower lip | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.7494782039401835,0.926290162705503,0.058823529411764705,0.5294117647058824
+lower lip | right,M1,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | right,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.8448398011090984,0.9821047553507609,-0.045112781954887216,0.4774436090225564
+lower lip | right,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2498152540342391,0.6768767213476888,0.23684210526315788,0.618421052631579
+lower lip | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.9689940204140075,1.0,-0.014705882352941176,0.49264705882352944
+medial canthus | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.3268772221185533,0.6973380738529138,0.18181818181818182,0.5909090909090909
+medial canthus | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,18,0.0,0.0,0.0,0.5596689271994115,0.8201067890255497,0.05555555555555555,0.5277777777777778
+medial canthus | left,M3,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | left,M4,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | left,M5,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.6808577009597636,0.8688197759729287,0.09210526315789473,0.5460526315789473
+medial canthus | right,M3,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | right,M4,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3402774330854905,0.7070699908269933,0.22058823529411764,0.6102941176470589
+mentalis | center,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4926003723747615,0.7883678424324688,-0.11363636363636363,0.4431818181818182
+mentalis | center,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+mentalis | center,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.8470653514900313,0.9821047553507609,0.05263157894736842,0.5263157894736842
+mentalis | center,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.49272990152029306,0.7883678424324688,0.15789473684210525,0.5789473684210527
+mentalis | center,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+mentalis | left,M1,abnormal_amplitude_envelope_severity_marker_median,7,22,0.0,0.0,0.0,0.6346979480919523,0.8303333354201303,-0.09740259740259741,0.4512987012987013
+mentalis | left,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+mentalis | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4679476518962403,0.7639961663612087,-0.17293233082706766,0.41353383458646614
+mentalis | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.7827443816654359,0.936040344779391,0.06578947368421052,0.5328947368421053
+mentalis | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.5562533718831404,0.8201067890255497,-0.125,0.4375
+mentalis | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5153458546296924,0.8005372499102018,-0.07386363636363637,0.4630681818181818
+mentalis | right,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+mentalis | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.9736810251756735,1.0,0.015037593984962405,0.5075187969924813
+mentalis | right,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.25471765508141475,0.6768767213476888,0.24342105263157895,0.6217105263157895
+mentalis | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.9121493120729838,1.0,0.029411764705882353,0.5147058823529411
+nasal bone | center,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.6768767213476888,0.13636363636363635,0.5681818181818182
+nasal bone | center,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+nasal bone | center,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.6768767213476888,0.15789473684210525,0.5789473684210527
+nasal bone | center,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.6768767213476888,0.21052631578947367,0.6052631578947368
+nasal bone | center,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.06771618064766538,0.6768767213476888,0.35294117647058826,0.6764705882352942
+nasion | center,M1,abnormal_amplitude_envelope_severity_marker_median,7,22,0.0,0.0,0.0,0.8095733139845009,0.9594942980557049,-0.03896103896103896,0.4805194805194805
+nasion | center,M2,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.15325241123562217,0.6768767213476888,0.2631578947368421,0.631578947368421
+nasion | center,M3,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+nasion | center,M4,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+nasion | center,M5,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+palpebra-malar groove | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.8217833183754697,0.045454545454545456,0.5227272727272727
+palpebra-malar groove | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.1839163471845464,0.6768767213476888,0.28289473684210525,0.6414473684210527
+palpebra-malar groove | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.3071730373373276,0.6826067496385058,0.23308270676691728,0.6165413533834586
+palpebra-malar groove | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.27790467953254017,0.6768767213476888,0.2236842105263158,0.6118421052631579
+palpebra-malar groove | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.18552460268117144,0.6768767213476888,0.27205882352941174,0.6360294117647058
+palpebra-malar groove | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.6768767213476888,0.13636363636363635,0.5681818181818182
+palpebra-malar groove | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0656246731241775,0.0656246731241775,0.009465455761343366,0.44974212809355407,0.5789473684210527,0.7894736842105263
+palpebra-malar groove | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.8539618874871847,0.9829777122154644,0.03759398496240601,0.518796992481203
+palpebra-malar groove | right,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.6383187516042252,0.8303333354201303,0.08552631578947369,0.5427631578947368
+palpebra-malar groove | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.026738867523196895,0.5347773504639379,0.47058823529411764,0.7352941176470589
+philtrum | center,M1,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+philtrum | center,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+philtrum | center,M3,abnormal_amplitude_envelope_severity_marker_median,6,18,0.2334738262690463,0.0,-0.2334738262690463,0.29952780387719413,0.6768767213476888,-0.24074074074074073,0.37962962962962965
+philtrum | center,M4,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.2414279883185218,0.2414279883185218,0.04804967039067799,0.6768767213476888,0.48872180451127817,0.7443609022556391
+philtrum | center,M5,abnormal_amplitude_envelope_severity_marker_median,7,16,0.0,0.0,0.0,0.25385257750320356,0.6768767213476888,0.1875,0.59375
+upper eyelid | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.7526107571982212,0.926290162705503,-0.045454545454545456,0.4772727272727273
+upper eyelid | left,M2,abnormal_amplitude_envelope_severity_marker_median,7,15,0.0206301890123155,0.0,-0.0206301890123155,0.15241906603762792,0.6768767213476888,-0.34285714285714286,0.32857142857142857
+upper eyelid | left,M3,abnormal_amplitude_envelope_severity_marker_median,6,15,0.0,0.0,0.0,0.5981614526835282,0.8217833183754697,0.06666666666666667,0.5333333333333333
+upper eyelid | left,M4,abnormal_amplitude_envelope_severity_marker_median,7,15,0.0,0.0,0.0,0.44252036531358085,0.7540949050374796,0.1619047619047619,0.580952380952381
+upper eyelid | left,M5,abnormal_amplitude_envelope_severity_marker_median,7,12,0.0,0.0,0.0,0.7670620541429481,0.9297721868399371,-0.07142857142857142,0.4642857142857143
+upper eyelid | right,M1,abnormal_amplitude_envelope_severity_marker_median,7,22,0.0,0.0,0.0,0.966105002773568,1.0,-0.012987012987012988,0.4935064935064935
+upper eyelid | right,M2,abnormal_amplitude_envelope_severity_marker_median,6,17,0.0,0.0,0.0,0.8974534787842217,1.0,-0.0392156862745098,0.4803921568627451
+upper eyelid | right,M3,abnormal_amplitude_envelope_severity_marker_median,4,15,0.0,0.0,0.0,0.07070114486598297,0.6768767213476888,-0.25,0.375
+upper eyelid | right,M4,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+upper eyelid | right,M5,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+upper lip | left,M1,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+upper lip | left,M2,abnormal_amplitude_envelope_severity_marker_median,0,0,,,,,,,
+upper lip | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2898831587428874,0.6768767213476888,-0.18045112781954886,0.40977443609022557
+upper lip | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.6768767213476888,0.21052631578947367,0.6052631578947368
+upper lip | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.29058946134331975,0.29058946134331975,0.011243553202338852,0.44974212809355407,0.6323529411764706,0.8161764705882353
+upper lip | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0301130329482959,0.0,-0.0301130329482959,0.6060651973019089,0.8217833183754697,-0.11363636363636363,0.4431818181818182
+upper lip | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.6768767213476888,0.21052631578947367,0.6052631578947368
+upper lip | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.6768767213476888,0.21052631578947367,0.6052631578947368
+upper lip | right,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.05814223207732549,0.6768767213476888,0.3684210526315789,0.6842105263157895
+upper lip | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.16967322284332903,0.16967322284332903,0.020947685831066914,0.5347773504639379,0.5367647058823529,0.7683823529411765
+zygomaticus major | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.7319465967895022,0.09090909090909091,0.5454545454545454
+zygomaticus major | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5834223875437108,0.8201067890255497,0.09868421052631579,0.5493421052631579
+zygomaticus major | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.7319465967895022,0.10526315789473684,0.5526315789473685
+zygomaticus major | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.6768767213476888,0.2631578947368421,0.631578947368421
+zygomaticus major | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,-0.007352941176470588,0.4963235294117647
+zygomaticus major | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.6768767213476888,0.13636363636363635,0.5681818181818182
+zygomaticus major | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.6768767213476888,0.21052631578947367,0.6052631578947368
+zygomaticus major | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.6768767213476888,0.21052631578947367,0.6052631578947368
+zygomaticus major | right,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.08649687720890414,0.6768767213476888,0.3157894736842105,0.6578947368421053
+zygomaticus major | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.6768767213476888,0.29411764705882354,0.6470588235294118
+zygomaticus minor | left,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.7319465967895022,0.09090909090909091,0.5454545454545454
+zygomaticus minor | left,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.1329525476307098,0.1329525476307098,0.12224795487714821,0.6768767213476888,0.35526315789473684,0.6776315789473685
+zygomaticus minor | left,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,-0.007518796992481203,0.49624060150375937
+zygomaticus minor | left,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.05814223207732549,0.6768767213476888,0.3684210526315789,0.6842105263157895
+zygomaticus minor | left,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3746211632313097,0.7319465967895022,0.20588235294117646,0.6029411764705882
+zygomaticus minor | right,M1,abnormal_amplitude_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.1589912787917931,0.6768767213476888,0.22727272727272727,0.6136363636363636
+zygomaticus minor | right,M2,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.038317993920640545,0.6758219845457916,0.42105263157894735,0.7105263157894737
+zygomaticus minor | right,M3,abnormal_amplitude_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.7319465967895022,0.10526315789473684,0.5526315789473685
+zygomaticus minor | right,M4,abnormal_amplitude_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.1455739224246035,0.6768767213476888,0.3092105263157895,0.6546052631578947
+zygomaticus minor | right,M5,abnormal_amplitude_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.6768767213476888,0.29411764705882354,0.6470588235294118

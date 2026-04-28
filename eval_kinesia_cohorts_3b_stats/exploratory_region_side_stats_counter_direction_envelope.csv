@@ -1,0 +1,196 @@
+region_side,movement,metric_col,n_healthy,n_pathological,healthy_median,pathological_median,delta_median_patho_minus_healthy,p_value,p_fdr,cliffs_delta_patho_vs_healthy,auroc_patho_higher
+ala of nose | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.8823636114150624,0.09090909090909091,0.5454545454545454
+ala of nose | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9715805745086719,0.05263157894736842,0.5263157894736842
+ala of nose | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.8823636114150624,0.10526315789473684,0.5526315789473685
+ala of nose | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.8823636114150624,0.21052631578947367,0.6052631578947368
+ala of nose | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.8823636114150624,0.23529411764705882,0.6176470588235294
+depressor anguli oris | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9715805745086719,0.045454545454545456,0.5227272727272727
+depressor anguli oris | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+depressor anguli oris | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.15325241123562217,0.8823636114150624,0.2631578947368421,0.631578947368421
+depressor anguli oris | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9715805745086719,0.05263157894736842,0.5263157894736842
+depressor anguli oris | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.7494782039401835,1.0,0.058823529411764705,0.5294117647058824
+depressor anguli oris | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9715805745086719,0.045454545454545456,0.5227272727272727
+depressor anguli oris | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.8457327587878664,1.0,-0.03289473684210526,0.48355263157894735
+depressor anguli oris | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9715805745086719,0.05263157894736842,0.5263157894736842
+depressor anguli oris | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+depressor anguli oris | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.8823636114150624,0.23529411764705882,0.6176470588235294
+eyebrow | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.8823636114150624,0.13636363636363635,0.5681818181818182
+eyebrow | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.08649687720890414,0.8823636114150624,0.3157894736842105,0.6578947368421053
+eyebrow | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.1589912787917931,0.8823636114150624,0.22727272727272727,0.6136363636363636
+eyebrow | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.36187696774021516,0.8823636114150624,0.17105263157894737,0.5855263157894737
+eyebrow | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | center,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9715805745086719,0.045454545454545456,0.5227272727272727
+front | center,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.1288580953809572,0.8823636114150624,0.3223684210526316,0.6611842105263158
+front | center,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | center,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | center,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.8823636114150624,0.09090909090909091,0.5454545454545454
+front | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.8823636114150624,0.2631578947368421,0.631578947368421
+front | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.8494442752511575,1.0,0.046052631578947366,0.5230263157894737
+front | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+labial commisure | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.11476444825320382,0.8823636114150624,0.2727272727272727,0.6363636363636364
+labial commisure | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+labial commisure | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.15325241123562217,0.8823636114150624,0.2631578947368421,0.631578947368421
+labial commisure | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+labial commisure | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.8195754576162821,1.0,0.04411764705882353,0.5220588235294118
+labial commisure | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9715805745086719,0.045454545454545456,0.5227272727272727
+labial commisure | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9715805745086719,0.05263157894736842,0.5263157894736842
+labial commisure | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.926671926320071,1.0,0.022556390977443608,0.5112781954887218
+labial commisure | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+labial commisure | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.8823636114150624,0.17647058823529413,0.5882352941176471
+lateral cantus | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.21870235387516324,0.8823636114150624,0.18181818181818182,0.5909090909090909
+lateral cantus | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.9657440375146142,1.0,0.013157894736842105,0.506578947368421
+lateral cantus | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.10853908088407117,0.8823636114150624,0.3157894736842105,0.6578947368421053
+lateral cantus | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lateral cantus | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.8823636114150624,0.29411764705882354,0.6470588235294118
+lateral cantus | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.8823636114150624,0.13636363636363635,0.5681818181818182
+lateral cantus | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+lateral cantus | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4530509993333004,0.9398398390424849,-0.09774436090225563,0.45112781954887216
+lateral cantus | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lateral cantus | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3532709951085804,0.8823636114150624,0.11764705882352941,0.5588235294117647
+levator superioris nasi | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+levator superioris nasi | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.8823636114150624,0.2631578947368421,0.631578947368421
+levator superioris nasi | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9715805745086719,0.05263157894736842,0.5263157894736842
+levator superioris nasi | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9715805745086719,0.05263157894736842,0.5263157894736842
+levator superioris nasi | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.8823636114150624,0.29411764705882354,0.6470588235294118
+levator superioris nasi | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+levator superioris nasi | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.8823636114150624,0.15789473684210525,0.5789473684210527
+levator superioris nasi | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9715805745086719,0.05263157894736842,0.5263157894736842
+levator superioris nasi | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+levator superioris nasi | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.8823636114150624,0.29411764705882354,0.6470588235294118
+levator superioris | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.547903534537403,0.9715805745086719,0.11363636363636363,0.5568181818181818
+levator superioris | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.24150950909849,0.8823636114150624,0.23026315789473684,0.6151315789473685
+levator superioris | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4337290109305775,0.9094317971125012,0.15789473684210525,0.5789473684210527
+levator superioris | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+levator superioris | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.8823636114150624,0.29411764705882354,0.6470588235294118
+levator superioris | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.8823636114150624,0.13636363636363635,0.5681818181818182
+levator superioris | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.8823636114150624,0.2631578947368421,0.631578947368421
+levator superioris | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.007518796992481203,0.5037593984962406
+levator superioris | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.8823636114150624,0.2631578947368421,0.631578947368421
+levator superioris | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.8823636114150624,0.23529411764705882,0.6176470588235294
+lower eyelid | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9715805745086719,0.045454545454545456,0.5227272727272727
+lower eyelid | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.8823636114150624,0.10526315789473684,0.5526315789473685
+lower eyelid | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.8823636114150624,0.15789473684210525,0.5789473684210527
+lower eyelid | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.6648770699885105,1.0,-0.058823529411764705,0.47058823529411764
+lower eyelid | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9715805745086719,0.045454545454545456,0.5227272727272727
+lower eyelid | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9715805745086719,0.05263157894736842,0.5263157894736842
+lower eyelid | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.15325241123562217,0.8823636114150624,0.2631578947368421,0.631578947368421
+lower eyelid | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.8823636114150624,0.21052631578947367,0.6052631578947368
+lower eyelid | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.891145701225637,1.0,0.029411764705882353,0.5147058823529411
+lower lip | center,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip | center,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip | center,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.801022367999438,1.0,0.05263157894736842,0.5263157894736842
+lower lip | center,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.1455739224246035,0.8823636114150624,0.3092105263157895,0.6546052631578947
+lower lip | center,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.7075958871053998,1.0,-0.07352941176470588,0.4632352941176471
+lower lip | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.736846546870412,1.0,0.06766917293233082,0.5338345864661654
+lower lip | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.39298092902452686,0.8823636114150624,0.18421052631578946,0.5921052631578947
+lower lip | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.8823636114150624,0.17647058823529413,0.5882352941176471
+lower lip | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower lip | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.8823636114150624,0.15789473684210525,0.5789473684210527
+lower lip | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2498152540342391,0.8823636114150624,0.23684210526315788,0.618421052631579
+lower lip | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.8823636114150624,0.23529411764705882,0.6176470588235294
+medial canthus | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+medial canthus | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.8567024636526412,1.0,0.03409090909090909,0.5170454545454546
+medial canthus | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+medial canthus | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.8823636114150624,0.23529411764705882,0.6176470588235294
+mentalis | center,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.8823636114150624,0.13636363636363635,0.5681818181818182
+mentalis | center,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+mentalis | center,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.8539618874871847,1.0,0.03759398496240601,0.518796992481203
+mentalis | center,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.7540017204134986,1.0,0.05921052631578947,0.5296052631578947
+mentalis | center,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.8823636114150624,0.17647058823529413,0.5882352941176471
+mentalis | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9715805745086719,0.045454545454545456,0.5227272727272727
+mentalis | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+mentalis | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4810941591495018,0.9715805745086719,0.14285714285714285,0.5714285714285714
+mentalis | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5352445008129454,0.9715805745086719,0.11842105263157894,0.5592105263157895
+mentalis | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.2699059179358979,0.8823636114150624,0.22794117647058823,0.6139705882352942
+mentalis | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.1589912787917931,0.8823636114150624,0.22727272727272727,0.6136363636363636
+mentalis | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+mentalis | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.8823636114150624,0.15789473684210525,0.5789473684210527
+mentalis | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.9657440375146142,1.0,0.013157894736842105,0.506578947368421
+mentalis | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.2939524278210708,0.8823636114150624,0.20588235294117646,0.6029411764705882
+nasal bone | center,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasal bone | center,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasal bone | center,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.8823636114150624,0.10526315789473684,0.5526315789473685
+nasal bone | center,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.8823636114150624,0.21052631578947367,0.6052631578947368
+nasal bone | center,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasion | center,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.39315095081312057,0.8823636114150624,0.1590909090909091,0.5795454545454546
+nasion | center,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.08074472133379994,0.8823636114150624,0.3815789473684211,0.6907894736842105
+nasion | center,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasion | center,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+nasion | center,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+palpebra-malar groove | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.8823636114150624,0.13636363636363635,0.5681818181818182
+palpebra-malar groove | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.8823636114150624,0.21052631578947367,0.6052631578947368
+palpebra-malar groove | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.8539618874871847,1.0,0.03759398496240601,0.518796992481203
+palpebra-malar groove | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+palpebra-malar groove | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.8823636114150624,0.23529411764705882,0.6176470588235294
+palpebra-malar groove | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+palpebra-malar groove | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+palpebra-malar groove | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9715805745086719,0.05263157894736842,0.5263157894736842
+palpebra-malar groove | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5308333845400859,0.9715805745086719,0.1118421052631579,0.555921052631579
+palpebra-malar groove | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.04310629342743949,0.8823636114150624,0.4117647058823529,0.7058823529411765
+philtrum | center,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+philtrum | center,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+philtrum | center,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+philtrum | center,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5988754312830971,0.9715805745086719,-0.06578947368421052,0.46710526315789475
+philtrum | center,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3532709951085804,0.8823636114150624,0.11764705882352941,0.5588235294117647
+upper eyelid | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9715805745086719,0.045454545454545456,0.5227272727272727
+upper eyelid | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.28297195285514254,0.8823636114150624,-0.17105263157894737,0.4144736842105263
+upper eyelid | left,M3,counter_direction_envelope_severity_marker_median,7,19,2.0204116102629475,0.0,-2.0204116102629475,0.2744390580182998,0.8823636114150624,-0.2631578947368421,0.3684210526315789
+upper eyelid | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5202816160351829,0.9715805745086719,-0.07894736842105263,0.4605263157894737
+upper eyelid | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3532709951085804,0.8823636114150624,0.11764705882352941,0.5588235294117647
+upper eyelid | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.36146860926708746,0.8823636114150624,-0.13636363636363635,0.4318181818181818
+upper eyelid | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.8823636114150624,0.15789473684210525,0.5789473684210527
+upper eyelid | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2898831587428874,0.8823636114150624,-0.18045112781954886,0.40977443609022557
+upper eyelid | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper eyelid | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper lip | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper lip | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+upper lip | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.8823636114150624,0.15789473684210525,0.5789473684210527
+upper lip | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+upper lip | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.14938448801981952,0.8823636114150624,0.3088235294117647,0.6544117647058824
+upper lip | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.8823636114150624,0.09090909090909091,0.5454545454545454
+upper lip | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,-0.006578947368421052,0.4967105263157895
+upper lip | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.8823636114150624,0.10526315789473684,0.5526315789473685
+upper lip | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.8823636114150624,0.15789473684210525,0.5789473684210527
+upper lip | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.8823636114150624,0.29411764705882354,0.6470588235294118
+zygomaticus major | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus major | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.8823636114150624,0.10526315789473684,0.5526315789473685
+zygomaticus major | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9715805745086719,0.05263157894736842,0.5263157894736842
+zygomaticus major | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus major | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.8823636114150624,0.17647058823529413,0.5882352941176471
+zygomaticus major | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus major | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9715805745086719,0.05263157894736842,0.5263157894736842
+zygomaticus major | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9715805745086719,0.05263157894736842,0.5263157894736842
+zygomaticus major | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.8823636114150624,0.15789473684210525,0.5789473684210527
+zygomaticus major | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.1573136052569487,0.8823636114150624,0.23529411764705882,0.6176470588235294
+zygomaticus minor | left,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus minor | left,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.08649687720890414,0.8823636114150624,0.3157894736842105,0.6578947368421053
+zygomaticus minor | left,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.8823636114150624,0.21052631578947367,0.6052631578947368
+zygomaticus minor | left,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9715805745086719,0.05263157894736842,0.5263157894736842
+zygomaticus minor | left,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.8823636114150624,0.29411764705882354,0.6470588235294118
+zygomaticus minor | right,M1,counter_direction_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.8823636114150624,0.09090909090909091,0.5454545454545454
+zygomaticus minor | right,M2,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.8823636114150624,0.2631578947368421,0.631578947368421
+zygomaticus minor | right,M3,counter_direction_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.8823636114150624,0.10526315789473684,0.5526315789473685
+zygomaticus minor | right,M4,counter_direction_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.8823636114150624,0.21052631578947367,0.6052631578947368
+zygomaticus minor | right,M5,counter_direction_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.8823636114150624,0.29411764705882354,0.6470588235294118

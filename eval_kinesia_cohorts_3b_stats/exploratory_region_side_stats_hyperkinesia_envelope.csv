@@ -1,0 +1,196 @@
+region_side,movement,metric_col,n_healthy,n_pathological,healthy_median,pathological_median,delta_median_patho_minus_healthy,p_value,p_fdr,cliffs_delta_patho_vs_healthy,auroc_patho_higher
+ala of nose | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.44787706555439877,0.9761549241864647,-0.08522727272727272,0.45738636363636365
+ala of nose | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,-0.006578947368421052,0.4967105263157895
+ala of nose | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.8349856743820906,1.0,-0.03759398496240601,0.48120300751879697
+ala of nose | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9761549241864647,0.05263157894736842,0.5263157894736842
+ala of nose | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+depressor anguli oris | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.7526107571982212,1.0,-0.045454545454545456,0.4772727272727273
+depressor anguli oris | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.038317993920640545,0.9761549241864647,0.42105263157894735,0.7105263157894737
+depressor anguli oris | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9761549241864647,0.05263157894736842,0.5263157894736842
+depressor anguli oris | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.05814223207732549,0.9761549241864647,0.3684210526315789,0.6842105263157895
+depressor anguli oris | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.7494782039401835,1.0,0.058823529411764705,0.5294117647058824
+depressor anguli oris | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.7451568095163006,1.0,0.056818181818181816,0.5284090909090909
+depressor anguli oris | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.08649687720890414,0.9761549241864647,0.3157894736842105,0.6578947368421053
+depressor anguli oris | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.9761549241864647,0.21052631578947367,0.6052631578947368
+depressor anguli oris | right,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.9761549241864647,0.15789473684210525,0.5789473684210527
+depressor anguli oris | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.9761549241864647,0.17647058823529413,0.5882352941176471
+eyebrow | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9761549241864647,0.045454545454545456,0.5227272727272727
+eyebrow | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5202816160351829,0.9761549241864647,-0.07894736842105263,0.4605263157894737
+eyebrow | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.9761549241864647,0.21052631578947367,0.6052631578947368
+eyebrow | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9761549241864647,0.05263157894736842,0.5263157894736842
+eyebrow | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.06771618064766538,0.9761549241864647,0.35294117647058826,0.6764705882352942
+eyebrow | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+eyebrow | right,M3,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+eyebrow | right,M4,hyperkinesia_envelope_severity_marker_median,6,18,0.0,0.0,0.0,0.6304275015358904,0.9761549241864647,0.05555555555555555,0.5277777777777778
+eyebrow | right,M5,hyperkinesia_envelope_severity_marker_median,7,17,0.0,0.0,0.0,0.6547676290558143,0.9761549241864647,0.09243697478991597,0.5462184873949579
+front | center,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9761549241864647,0.045454545454545456,0.5227272727272727
+front | center,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5202816160351829,0.9761549241864647,-0.07894736842105263,0.4605263157894737
+front | center,M3,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+front | center,M4,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+front | center,M5,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+front | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.9761549241864647,0.09090909090909091,0.5454545454545454
+front | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.14429205544010515,0.9761549241864647,-0.125,0.4375
+front | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.9761549241864647,0.15789473684210525,0.5789473684210527
+front | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+front | left,M5,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+front | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9761549241864647,0.045454545454545456,0.5227272727272727
+front | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5988754312830971,0.9761549241864647,-0.06578947368421052,0.46710526315789475
+front | right,M3,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+front | right,M4,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+front | right,M5,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+labial commisure | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.005681818181818182,0.5028409090909091
+labial commisure | left,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+labial commisure | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.531786062941489,0.9761549241864647,-0.08270676691729323,0.45864661654135336
+labial commisure | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.9761549241864647,0.10526315789473684,0.5526315789473685
+labial commisure | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+labial commisure | right,M1,hyperkinesia_envelope_severity_marker_median,6,21,0.0,0.0,0.0,0.27796124742107187,0.9761549241864647,0.19047619047619047,0.5952380952380952
+labial commisure | right,M2,hyperkinesia_envelope_severity_marker_median,6,18,0.0,0.00121949584522025,0.00121949584522025,0.04223887403411197,0.9761549241864647,0.5,0.75
+labial commisure | right,M3,hyperkinesia_envelope_severity_marker_median,5,18,0.0,0.0,0.0,0.4927781306902034,0.9761549241864647,0.1111111111111111,0.5555555555555556
+labial commisure | right,M4,hyperkinesia_envelope_severity_marker_median,6,18,0.0,0.0,0.0,0.12511976085115364,0.9761549241864647,0.3333333333333333,0.6666666666666666
+labial commisure | right,M5,hyperkinesia_envelope_severity_marker_median,6,16,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lateral cantus | left,M1,hyperkinesia_envelope_severity_marker_median,7,22,0.0,0.0,0.0,0.628745176273833,0.9761549241864647,0.045454545454545456,0.5227272727272727
+lateral cantus | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5202816160351829,0.9761549241864647,-0.07894736842105263,0.4605263157894737
+lateral cantus | left,M3,hyperkinesia_envelope_severity_marker_median,6,19,0.0,0.0,0.0,0.3381580297707504,0.9761549241864647,0.15789473684210525,0.5789473684210527
+lateral cantus | left,M4,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+lateral cantus | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.007352941176470588,0.5036764705882353
+lateral cantus | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.9761549241864647,0.13636363636363635,0.5681818181818182
+lateral cantus | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5202816160351829,0.9761549241864647,-0.07894736842105263,0.4605263157894737
+lateral cantus | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.9761549241864647,0.15789473684210525,0.5789473684210527
+lateral cantus | right,M4,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+lateral cantus | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.5483429354628137,0.9761549241864647,0.058823529411764705,0.5294117647058824
+levator superioris nasi | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.9761549241864647,0.13636363636363635,0.5681818181818182
+levator superioris nasi | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+levator superioris nasi | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.9761549241864647,0.10526315789473684,0.5526315789473685
+levator superioris nasi | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.9761549241864647,0.10526315789473684,0.5526315789473685
+levator superioris nasi | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.6648770699885105,0.9761549241864647,-0.058823529411764705,0.47058823529411764
+levator superioris nasi | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,-0.005681818181818182,0.4971590909090909
+levator superioris nasi | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9761549241864647,0.05263157894736842,0.5263157894736842
+levator superioris nasi | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4530509993333004,0.9761549241864647,-0.09774436090225563,0.45112781954887216
+levator superioris nasi | right,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+levator superioris nasi | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,0.007352941176470588,0.5036764705882353
+levator superioris | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.9761549241864647,0.13636363636363635,0.5681818181818182
+levator superioris | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.9761549241864647,0.10526315789473684,0.5526315789473685
+levator superioris | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.917045709389809,1.0,-0.022556390977443608,0.48872180451127817
+levator superioris | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.40155302147128,0.9761549241864647,0.15789473684210525,0.5789473684210527
+levator superioris | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.5775561302463277,0.9761549241864647,-0.07352941176470588,0.4632352941176471
+levator superioris | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.9761549241864647,0.13636363636363635,0.5681818181818182
+levator superioris | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.9761549241864647,0.10526315789473684,0.5526315789473685
+levator superioris | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9761549241864647,0.05263157894736842,0.5263157894736842
+levator superioris | right,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.9267657293643957,1.0,0.02631578947368421,0.5131578947368421
+levator superioris | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3532709951085804,0.9761549241864647,0.11764705882352941,0.5588235294117647
+lower eyelid | left,M1,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9761549241864647,0.05263157894736842,0.5263157894736842
+lower eyelid | left,M2,hyperkinesia_envelope_severity_marker_median,5,16,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid | left,M3,hyperkinesia_envelope_severity_marker_median,3,13,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid | left,M4,hyperkinesia_envelope_severity_marker_median,5,12,0.0,0.0,0.0,0.15558034779219784,0.9761549241864647,-0.2,0.4
+lower eyelid | left,M5,hyperkinesia_envelope_severity_marker_median,5,11,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid | right,M1,hyperkinesia_envelope_severity_marker_median,6,18,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid | right,M2,hyperkinesia_envelope_severity_marker_median,5,14,0.0,0.0,0.0,0.144986232272971,0.9761549241864647,-0.3,0.35
+lower eyelid | right,M3,hyperkinesia_envelope_severity_marker_median,4,13,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+lower eyelid | right,M4,hyperkinesia_envelope_severity_marker_median,4,12,0.0,0.0,0.0,0.6650055421020291,0.9761549241864647,0.08333333333333333,0.5416666666666666
+lower eyelid | right,M5,hyperkinesia_envelope_severity_marker_median,4,7,0.0,0.0,0.0,0.5707503880581739,0.9761549241864647,0.14285714285714285,0.5714285714285714
+lower lip | center,M1,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | center,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | center,M3,hyperkinesia_envelope_severity_marker_median,6,19,0.0,0.0,0.0,0.457170036178972,0.9761549241864647,0.10526315789473684,0.5526315789473685
+lower lip | center,M4,hyperkinesia_envelope_severity_marker_median,6,19,0.0,0.0,0.0,0.5810040408742623,0.9761549241864647,0.12280701754385964,0.5614035087719298
+lower lip | center,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.6218357484126504,0.9761549241864647,0.11764705882352941,0.5588235294117647
+lower lip | left,M1,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | left,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.7546853340143136,1.0,-0.05263157894736842,0.47368421052631576
+lower lip | left,M4,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6744560043650838,0.9810269154401218,0.08270676691729323,0.5413533834586466
+lower lip | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,1.0,1.0,-0.007352941176470588,0.4963235294117647
+lower lip | right,M1,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | right,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+lower lip | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.614227383085137,0.9761549241864647,-0.09774436090225563,0.45112781954887216
+lower lip | right,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2498152540342391,0.9761549241864647,0.23684210526315788,0.618421052631579
+lower lip | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.8195754576162821,1.0,0.04411764705882353,0.5220588235294118
+medial canthus | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.21870235387516324,0.9761549241864647,0.18181818181818182,0.5909090909090909
+medial canthus | left,M2,hyperkinesia_envelope_severity_marker_median,8,18,0.0,0.0,0.0,0.5596689271994115,0.9761549241864647,0.05555555555555555,0.5277777777777778
+medial canthus | left,M3,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | left,M4,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | left,M5,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+medial canthus | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,-0.006578947368421052,0.4967105263157895
+medial canthus | right,M3,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | right,M4,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+medial canthus | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.21842491825584176,0.9761549241864647,0.2647058823529412,0.6323529411764706
+mentalis | center,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,1.0,1.0,0.005681818181818182,0.5028409090909091
+mentalis | center,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+mentalis | center,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.9457234461859284,1.0,-0.022556390977443608,0.48872180451127817
+mentalis | center,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.9214242300757017,1.0,0.02631578947368421,0.5131578947368421
+mentalis | center,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.8459017658813297,1.0,-0.04411764705882353,0.47794117647058826
+mentalis | left,M1,hyperkinesia_envelope_severity_marker_median,7,22,0.0,0.0,0.0,0.8011256933392391,1.0,0.05194805194805195,0.525974025974026
+mentalis | left,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+mentalis | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4679476518962403,0.9761549241864647,-0.17293233082706766,0.41353383458646614
+mentalis | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.8094512895116892,1.0,-0.05263157894736842,0.47368421052631576
+mentalis | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.9689940204140075,1.0,-0.014705882352941176,0.49264705882352944
+mentalis | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9761549241864647,0.045454545454545456,0.5227272727272727
+mentalis | right,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+mentalis | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.9457234461859284,1.0,-0.022556390977443608,0.48872180451127817
+mentalis | right,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.44854102380199035,0.9761549241864647,0.1513157894736842,0.5756578947368421
+mentalis | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.9121493120729838,1.0,0.029411764705882353,0.5147058823529411
+nasal bone | center,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9761549241864647,0.045454545454545456,0.5227272727272727
+nasal bone | center,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+nasal bone | center,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2976166482785968,0.9761549241864647,0.15789473684210525,0.5789473684210527
+nasal bone | center,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.2632450016152662,0.9761549241864647,0.15789473684210525,0.5789473684210527
+nasal bone | center,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.9761549241864647,0.29411764705882354,0.6470588235294118
+nasion | center,M1,hyperkinesia_envelope_severity_marker_median,7,22,0.0,0.0,0.0,0.628745176273833,0.9761549241864647,0.045454545454545456,0.5227272727272727
+nasion | center,M2,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.9761549241864647,0.10526315789473684,0.5526315789473685
+nasion | center,M3,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+nasion | center,M4,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+nasion | center,M5,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+palpebra-malar groove | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5977458557030397,0.9761549241864647,0.045454545454545456,0.5227272727272727
+palpebra-malar groove | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+palpebra-malar groove | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.5054159761615558,0.9761549241864647,0.14285714285714285,0.5714285714285714
+palpebra-malar groove | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,-0.006578947368421052,0.4967105263157895
+palpebra-malar groove | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.6648770699885105,0.9761549241864647,-0.058823529411764705,0.47058823529411764
+palpebra-malar groove | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.9761549241864647,0.09090909090909091,0.5454545454545454
+palpebra-malar groove | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+palpebra-malar groove | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.8539618874871847,1.0,0.03759398496240601,0.518796992481203
+palpebra-malar groove | right,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.8299751791454019,1.0,0.039473684210526314,0.5197368421052632
+palpebra-malar groove | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.10408240518235623,0.9761549241864647,0.29411764705882354,0.6470588235294118
+philtrum | center,M1,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+philtrum | center,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+philtrum | center,M3,hyperkinesia_envelope_severity_marker_median,6,18,0.2334738262690463,0.0,-0.2334738262690463,0.29952780387719413,0.9761549241864647,-0.24074074074074073,0.37962962962962965
+philtrum | center,M4,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.2414279883185218,0.2414279883185218,0.06810728972863578,0.9761549241864647,0.44360902255639095,0.7218045112781954
+philtrum | center,M5,hyperkinesia_envelope_severity_marker_median,7,16,0.0,0.0,0.0,0.37447590800782904,0.9761549241864647,0.125,0.5625
+upper eyelid | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.44787706555439877,0.9761549241864647,-0.08522727272727272,0.45738636363636365
+upper eyelid | left,M2,hyperkinesia_envelope_severity_marker_median,7,15,0.0,0.0,0.0,0.12456577739863116,0.9761549241864647,-0.3142857142857143,0.34285714285714286
+upper eyelid | left,M3,hyperkinesia_envelope_severity_marker_median,6,15,0.0,0.0,0.0,0.5981614526835282,0.9761549241864647,0.06666666666666667,0.5333333333333333
+upper eyelid | left,M4,hyperkinesia_envelope_severity_marker_median,7,15,0.0,0.0,0.0,0.15732508899041342,0.9761549241864647,0.26666666666666666,0.6333333333333333
+upper eyelid | left,M5,hyperkinesia_envelope_severity_marker_median,7,12,0.0,0.0,0.0,0.7670620541429481,1.0,-0.07142857142857142,0.4642857142857143
+upper eyelid | right,M1,hyperkinesia_envelope_severity_marker_median,7,22,0.0,0.0,0.0,0.7358401607166818,1.0,-0.05194805194805195,0.474025974025974
+upper eyelid | right,M2,hyperkinesia_envelope_severity_marker_median,6,17,0.0,0.0,0.0,0.11314000815200631,0.9761549241864647,-0.16666666666666666,0.4166666666666667
+upper eyelid | right,M3,hyperkinesia_envelope_severity_marker_median,4,15,0.0,0.0,0.0,0.07070114486598297,0.9761549241864647,-0.25,0.375
+upper eyelid | right,M4,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+upper eyelid | right,M5,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+upper lip | left,M1,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+upper lip | left,M2,hyperkinesia_envelope_severity_marker_median,0,0,,,,,,,
+upper lip | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2898831587428874,0.9761549241864647,-0.18045112781954886,0.40977443609022557
+upper lip | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.5701877750903486,0.9761549241864647,0.05263157894736842,0.5263157894736842
+upper lip | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.7075958871053998,1.0,-0.07352941176470588,0.4632352941176471
+upper lip | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.5021432536507167,0.9761549241864647,0.11931818181818182,0.5596590909090909
+upper lip | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.18307483004441305,0.9761549241864647,0.21052631578947367,0.6052631578947368
+upper lip | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.9761549241864647,0.21052631578947367,0.6052631578947368
+upper lip | right,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.9761549241864647,0.2631578947368421,0.631578947368421
+upper lip | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.6648770699885105,0.9761549241864647,-0.058823529411764705,0.47058823529411764
+zygomaticus major | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.9761549241864647,0.09090909090909091,0.5454545454545454
+zygomaticus major | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,-0.006578947368421052,0.4967105263157895
+zygomaticus major | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.6028782026438425,0.9761549241864647,0.05263157894736842,0.5263157894736842
+zygomaticus major | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.9761549241864647,0.2631578947368421,0.631578947368421
+zygomaticus major | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.6648770699885105,0.9761549241864647,-0.058823529411764705,0.47058823529411764
+zygomaticus major | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.9761549241864647,0.09090909090909091,0.5454545454545454
+zygomaticus major | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus major | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.2140728990610994,0.9761549241864647,0.21052631578947367,0.6052631578947368
+zygomaticus major | right,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.9761549241864647,0.2631578947368421,0.631578947368421
+zygomaticus major | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.23545293536746903,0.9761549241864647,0.17647058823529413,0.5882352941176471
+zygomaticus minor | left,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.4161203740676883,0.9761549241864647,0.09090909090909091,0.5454545454545454
+zygomaticus minor | left,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.3806510667735905,0.9761549241864647,0.10526315789473684,0.5526315789473685
+zygomaticus minor | left,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.7546853340143136,1.0,-0.05263157894736842,0.47368421052631576
+zygomaticus minor | left,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.12659574073591284,0.9761549241864647,0.2631578947368421,0.631578947368421
+zygomaticus minor | left,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.6648770699885105,0.9761549241864647,-0.058823529411764705,0.47058823529411764
+zygomaticus minor | right,M1,hyperkinesia_envelope_severity_marker_median,8,22,0.0,0.0,0.0,0.30036404509803694,0.9761549241864647,0.13636363636363635,0.5681818181818182
+zygomaticus minor | right,M2,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,1.0,1.0,0.0,0.5
+zygomaticus minor | right,M3,hyperkinesia_envelope_severity_marker_median,7,19,0.0,0.0,0.0,0.4162946269240294,0.9761549241864647,0.10526315789473684,0.5526315789473685
+zygomaticus minor | right,M4,hyperkinesia_envelope_severity_marker_median,8,19,0.0,0.0,0.0,0.1455739224246035,0.9761549241864647,0.3092105263157895,0.6546052631578947
+zygomaticus minor | right,M5,hyperkinesia_envelope_severity_marker_median,8,17,0.0,0.0,0.0,0.3532709951085804,0.9761549241864647,0.11764705882352941,0.5588235294117647
